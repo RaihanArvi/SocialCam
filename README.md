@@ -2,13 +2,16 @@
 YOLOv4-Based Real-Time Social Distancing Detector
 <br/> SocialCam is a social distancing detector based on the YOLOv4 object detection algorithm. SocialCam uses perspective wrap to measure distance accurately. SocialCam outputs sound alarm when social distancing violation is detected. 
 
-<br/> A part of Kompetisi Penelitian Siswa Indonesia 2021 (KOPSI 2021)
-
 ## Author
 <br/> By: Raihan Adhipratama Arvi
 <br/> SMA Negeri 1 Sumatera Barat
 
-## Feature
+### Research Paper
+This project is a part of Kompetisi Penelitian Siswa Indonesia 2021 (KOPSI 2021).
+<br/> The research paper for this project can be found in the repository above.
+<br/> Please consider citing the paper if you use this project in your research.
+
+### Feature
 * CPU and CUDA Support
 * Perspective Wrap Distance Measurement
 * Integrated Calibration
