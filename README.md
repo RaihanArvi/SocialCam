@@ -17,6 +17,9 @@ YOLOv4-Based Real-Time Social Distancing Detector
 * Configurable Parameter
 
 ### Usage
+SocialCam can be configured by editing the socialcam_config.py file.
+
+#### Command Line Usage
 
 	usage: py SocialCam.py [arguments] [options]
 
@@ -48,7 +51,6 @@ YOLOv4-Based Real-Time Social Distancing Detector
 		-d, --display
 					1 = display detection feed; 0 = no detection feed.
 					Default: 1
-SocialCam can be configured by editing the socialcam_config.py file.
 
 ### Requirement
 
