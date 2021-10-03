@@ -1,7 +1,8 @@
 # SocialCam : Real-Time YOLOv4 Based Social Distancing Detector
 YOLOv4-Based Real-Time Social Distancing Detector
 <br/> A part of Kompetisi Penelitian Siswa Indonesia 2021 (KOPSI 2021)
-<br/> 
+
+## Author
 <br/> By: Raihan Adhipratama Arvi
 <br/> SMA Negeri 1 Sumatera Barat
 
@@ -13,9 +14,7 @@ YOLOv4-Based Real-Time Social Distancing Detector
 * Argument Parser
 * Configurable Parameter
 
-## Usage
-
-### Command Line
+### Usage
 
 	usage: py SocialCam.py [arguments] [options]
 
@@ -48,3 +47,9 @@ YOLOv4-Based Real-Time Social Distancing Detector
 					1 = display detection feed; 0 = no detection feed.
 					Default: 1
 
+### Requirement
+
+Softwares requirement for SocialCam:
+	* Python 3.9.5
+	* OpenCV 4.5.2 w/ CUDA Support
+	* Numpy
