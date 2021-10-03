@@ -50,6 +50,6 @@ YOLOv4-Based Real-Time Social Distancing Detector
 ### Requirement
 
 Softwares requirement for SocialCam:
-	* Python 3.9.5
-	* OpenCV 4.5.2 w/ CUDA Support
-	* Numpy
+* Python 3.9.5
+* OpenCV 4.5.2 w/ CUDA Support
+* Numpy
