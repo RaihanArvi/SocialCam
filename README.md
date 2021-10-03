@@ -16,29 +16,29 @@ SMA Negeri 1 Sumatera Barat
 	Available Arguments :
 
 		-h, --help
-							Show this message and exit
+					Show this message and exit
 		-i, --input
-							Input file location
-							Default: configurable
+					Input file location
+					Default: configurable
 		-c, --inputcam
-							Connected webcam number ID
-							Default: None
+					Connected webcam number ID
+					Default: None
 		-o, --output
-							Output file name and directory
-							Default: No output
+					Output file name and directory
+					Default: No output
 		-g, --usegpu
-							1 = use CUDA acceleration; 0 = use CPU
-							Default: configurable
+					1 = use CUDA acceleration; 0 = use CPU
+					Default: configurable
 		-l, --log
-							Output log file name
-							Default: no output log
+					Output log file name
+					Default: no output log
 		-p, --getpoints
-							1 = into perspective point calibration mode.
-							Default: 0
+					1 = into perspective point calibration mode.
+					Default: 0
 		-a, --alarm
-							1 = activate alarm; 0 = deactivate alarm.
-							Default: condigurable
+					1 = activate alarm; 0 = deactivate alarm.
+					Default: condigurable
 		-d, --display
-							1 = display detection feed; 0 = no detection feed.
-							Default: 1
+					1 = display detection feed; 0 = no detection feed.
+					Default: 1
 
