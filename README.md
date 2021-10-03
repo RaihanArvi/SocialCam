@@ -1,6 +1,7 @@
 # SocialCam : Real-Time YOLOv4 Based Social Distancing Detector
 YOLOv4-Based Real-Time Social Distancing Detector
 <br/> A part of Kompetisi Penelitian Siswa Indonesia 2021 (KOPSI 2021)
+<br/> 
 <br/> By: Raihan Adhipratama Arvi
 <br/> SMA Negeri 1 Sumatera Barat
 
