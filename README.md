@@ -53,3 +53,7 @@ Softwares requirement for SocialCam:
 * Python 3.9.5
 * OpenCV 4.5.2 w/ CUDA Support
 * Numpy
+
+## Acknowledgement
+
+Author would like to thank to all of the contributors who make this project possible.
