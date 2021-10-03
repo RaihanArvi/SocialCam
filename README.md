@@ -61,4 +61,4 @@ Softwares requirement for SocialCam:
 
 ## Acknowledgement
 
-Author would like to thank to all of the contributors who make this project possible.
+Author would like to thank to all of the contributors who make this project possible. Especially Umi Nilma Herrita Wisda Syam, author's mentor in this project.
