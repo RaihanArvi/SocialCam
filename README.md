@@ -62,6 +62,9 @@ Softwares requirement for SocialCam:
 * OpenCV 4.5.2 w/ CUDA Support
 * Numpy
 
+### SocialCam Custom Model
+SocialCam model download link: https://drive.google.com/drive/folders/1xsnl8BEHXpfZAIgPwPQcYQV8FGAQMkr2?usp=sharing
+
 ## Acknowledgement
 
 Author would like to thank to all of the contributors who make this project possible. Especially Umi Nilma Herrita Wisda Syam, author's mentor in this project.
