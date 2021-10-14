@@ -1,4 +1,4 @@
-# SocialCam : Real-Time YOLOv4-Based Social Distancing Detector
+# SocialCam : Real-Time YOLOv4-Based Social Distancing Violation Detector
 YOLOv4-Based Real-Time Social Distancing Detector
 <br/> SocialCam is a social distancing detector based on the YOLOv4 object detection algorithm. SocialCam uses perspective wrap to measure distance accurately. SocialCam outputs sound alarm when social distancing violation is detected. 
 
